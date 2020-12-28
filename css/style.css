@@ -10,3 +10,20 @@ main {
     height:auto;
     margin: 0 auto;
 }
+
+figcaption{
+    margin: 10px 0;
+}
+
+#tribute-info{
+    width: 50%;
+    margin: 0 auto;
+}
+
+#tribute-info ul{
+    text-align: left;
+}
+
+#tribute-info ul li{
+    margin: 10px 0;
+}
